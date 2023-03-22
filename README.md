@@ -18,9 +18,6 @@ For this notebook, we're going to use the red wine dataset, wineQualityReds.csv.
 This project will have the following structure: 
 
 **1. Sourcing and loading** 
-
 **2. Cleaning, transforming, and visualizing**
-  
-**3. Modeling** 
-
+**3. Modeling**
 **4. Evaluating and concluding** 
