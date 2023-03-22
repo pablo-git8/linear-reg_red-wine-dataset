@@ -4,7 +4,7 @@
 ![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 <p align="center">
-	<img src="http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression_files/simple_regression.png" alt="400" width="600"/>
+	<img src="http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression_files/simple_regression.png" alt="300" width="500"/>
 </p>
 
 Image taken from this [source](http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression/). 
