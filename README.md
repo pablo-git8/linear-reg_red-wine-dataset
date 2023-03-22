@@ -5,6 +5,7 @@
 
 <p align="center">
 	<img src="http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression_files/simple_regression.png" alt="300" width="500"/>
+	// Image taken from this [source](http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression/)
 </p>
 <p align="center">
 	<Image taken from this [source](http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression/).>
