@@ -6,8 +6,9 @@
 <p align="center">
 	<img src="http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression_files/simple_regression.png" alt="300" width="500"/>
 </p>
-
-Image taken from this [source](http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression/). 
+<p align="center">
+	<Image taken from this [source](http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression/).>
+</p>
 
 In this notebook, we turn our attention to **Regression**. The objective is to use python and jupyter notebooks to tackle The Red Wine dataset. The aim is to ***use exploratory data analysis (EDA) and linear regression to predict alcohol levels in wine with a model that's as accurate as possible***. 
 
